@@ -15,6 +15,7 @@ public class test {
     @Test
     public void testMybatis(){
         System.out.println("OK");
+        System.out.println("OOOOOO");
         System.out.println(mapper.findAll());
     }
 }
