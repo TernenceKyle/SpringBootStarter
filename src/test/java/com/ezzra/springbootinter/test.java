@@ -14,6 +14,10 @@ public class test {
     private IUserMapper mapper;
     @Test
     public void testMybatis(){
+<<<<<<< HEAD
+=======
+        System.out.println("OK");
+>>>>>>> Starter
         System.out.println(mapper.findAll());
     }
 }
