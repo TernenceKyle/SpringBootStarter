@@ -16,5 +16,6 @@ public class test {
     public void testMybatis(){
         System.out.println("Git 上面修改同步到Github的内容...");
         System.out.println(mapper.findAll());
+        System.out.println("Test 这是一个测试 Test");
     }
 }
