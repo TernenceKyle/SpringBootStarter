@@ -8,8 +8,6 @@ Test|1.0.0|Yes
 
 ####用户信息查找
 
-(```)
-    System.OutPutprint(0)；
-(```)
+    `System.OutPutprint(0)；`
 
 #Else
