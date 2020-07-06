@@ -14,9 +14,7 @@ public class test {
     private IUserMapper mapper;
     @Test
     public void testMybatis(){
-        System.out.println("Git 上面修改同步到Github的内容...");
         System.out.println(mapper.findAll());
-//        System.out.println("Test 这是一个测试 Test");
-        System.out.println("Test Method Replace");
+        System.out.println("Content On Dev Branch");
     }
 }
