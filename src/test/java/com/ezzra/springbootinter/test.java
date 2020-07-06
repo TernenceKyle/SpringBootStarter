@@ -14,8 +14,7 @@ public class test {
     private IUserMapper mapper;
     @Test
     public void testMybatis(){
-        System.out.println("OK");
-        System.out.println("OOOOOO");
+        System.out.println("Git 上面修改同步到Github的内容...");
         System.out.println(mapper.findAll());
     }
 }
