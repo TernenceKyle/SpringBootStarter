@@ -15,7 +15,5 @@ public class test {
     @Test
     public void testMybatis(){
         System.out.println(mapper.findAll());
-        System.out.println("Master Branch Content");
-        System.out.println("Content On Dev Branch");
     }
 }
